@@ -1,0 +1,28 @@
+{
+  "name": "wool-warrior",
+  "version": "1.0.0",
+  "description": "Wool Wars Community Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WoolWars"
+  ],
+  "author": "BLACKOUT#0001",
+  "license": "ISC",
+  "dependencies": {
+    "@zikeji/hypixel": "^3.1.1",
+    "ascii-table": "^0.0.9",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "mcdata": "^1.0.9",
+    "minecraft_head": "^1.2.21",
+    "minecraft-player": "^1.0.1",
+    "moment": "^2.29.1",
+    "mongoose": "^6.2.7",
+    "node-fetch": "^3.2.3",
+    "parse-ms": "^3.0.0",
+    "scryfall-sdk": "^3.0.0"
+  }
+}
